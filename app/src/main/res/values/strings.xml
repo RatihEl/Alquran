@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Al-quran</string>
+    <string name="google_maps_key">AIzaSyBkD0wc60vEphtjzP9a6Ix4FR4_ptV2BUI</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="jadwal_sholat">Jadwal Sholat</string>
+    <string name="subuh">Subuh</string>
+    <string name="zuhur">Zuhur</string>
+    <string name="ashar">Ashar</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isya">Isya</string>
+    <string name="_05_30_am">05:30 AM</string>
+    <string name="masjid_terdekat">Masjid Terdekat</string>
+    <string name="assalamualaikum">Assalamualaikum</string>
+    <string name="ratih_eldina">Ratih Eldina</string>
+</resources>
